@@ -1,6 +1,6 @@
 {
   "name": "sanity-template-commercelayer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A multi-country ecommerce starter built with Sanity Studio, Commerce Layer, Next.js, and deployed to Netlify.",
   "engines": {
     "node": ">=16",
@@ -84,8 +84,8 @@
     "next-sanity": "^0.5.0",
     "postcss": "^8.4.6",
     "query-string": "^7.1.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-instantsearch-dom": "^6.22.0",
     "sanity-template": "^2.4.3"
   },
